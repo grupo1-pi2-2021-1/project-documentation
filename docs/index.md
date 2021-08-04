@@ -1,4 +1,4 @@
-# Translate.me
+# Higienizador de Ambulâncias
 
 Este repositório contém a documentação do projeto Higienizador de Ambulâncias que integra-se
 com a disciplina ofertada pela Universidade de Brasília - Faculdade do Gama
