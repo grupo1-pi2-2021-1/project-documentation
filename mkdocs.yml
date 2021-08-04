@@ -13,5 +13,5 @@ nav:
       - Sprint 0: geral/reunioes/sprint_0.md
     - Apresentações :
       - Apresentação Final: geral/apresentacoes/ponto_controle_1.md
-  theme:
+theme:
   name: 'material'
