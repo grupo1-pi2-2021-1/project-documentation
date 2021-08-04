@@ -1,27 +1,17 @@
 site_name: Higienizador de Ambulâncias
-extra_css: [extra.css]
-nav:
-  - Início: index.md
-  - Ponto de Controle 1:
-    - Termo de Abertura do Projeto: geral/docs/termo_abertura.md
-    - Estrutura Analítica do Projeto: geral/docs/estrutura_analitica.md
-  - Reuniões:
-    - Sprint 0: geral/reunioes/sprint_0.md
-  - Apresentações :
-    - Apresentação Final: geral/apresentacoes/ponto_controle_1.md
-
-#######################################################################################
-
-theme:
-    name: material
-    language: 'pt'
-    logo:
-      icon: 'translate'
-    palette:
-      primary: 'cyan'
-      accent: 'cyan'
-    favicon: 'assets/images/favicon.ico'
-
-repo_name: 'Higienizador de Ambulâncias'
+site_description: 'Projeto de PI2 - 2021/1'
+site_author: 'Grupo 1'
+docs_dir: docs/
+repo_name: 'grupo1-pi2-2021-1/project-documentation'
 repo_url: 'https://github.com/grupo1-pi2-2021-1/project-documentation'
-edit_uri: ''
+nav:
+    - Início: index.md
+    - Ponto de Controle 1:
+      - Termo de Abertura do Projeto: geral/docs/termo_abertura.md
+      - Estrutura Analítica do Projeto: geral/docs/estrutura_analitica.md
+    - Reuniões:
+      - Sprint 0: geral/reunioes/sprint_0.md
+    - Apresentações :
+      - Apresentação Final: geral/apresentacoes/ponto_controle_1.md
+  theme:
+  name: 'material'
