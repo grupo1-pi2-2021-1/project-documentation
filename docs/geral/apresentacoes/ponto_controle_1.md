@@ -1,16 +1,16 @@
 
-## Ponto de Controle 1
+## Datas e prazos
 - Data da entrega do relatório: 15/08/2021
 - Data da apresentação do ponto de controle: 20/08/2021
 
-### Objetivo
+## Objetivo
 
-### Definições
+## Definições
 1. Estrutura Analítca do Projeto
 1. Lista É / Não É
 1. Termo de abertura do projeto
 
-### Descrição das Atividades e Responsabilidades
+## Descrição das Atividades e Responsabilidades
 1. Requisitos
 1. Termo de Abertura
 1. Escopo
